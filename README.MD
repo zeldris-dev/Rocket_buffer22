@@ -2,7 +2,7 @@ Esse script pede a api uma informação e ela reproduz no client.
 
 Task List:
 
-[X] - Criar um comando que pega as informaões da api.
+[X] - Criar um comando que pega as informações da api.
 
 [X] - Fazer essas informações reproduzir no client no canto da tela.
 
