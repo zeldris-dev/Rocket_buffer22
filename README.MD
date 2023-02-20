@@ -11,5 +11,7 @@ Algo: "B" -> Baixar as informações da api -> Reproduzir essas informações pa
 Stacks:
 
 1 - Lua
+
 2 - Eventos
+
 3 - FetchRemote (https://wiki.multitheftauto.com/wiki/FetchRemote)
